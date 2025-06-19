@@ -1,0 +1,2 @@
+# Marketing-Users-Acquisition-Analysis-Using-Google-Looker-Studio.
+he Digital Marketing Conversion dataset provides a comprehensive view of user interactions and conversions in a digital marketing environment. This dataset includes demographic information, campaign details, user engagement metrics, and conversion outcomes, making it ideal for analyzing marketing effectiveness and user behavior patterns.
